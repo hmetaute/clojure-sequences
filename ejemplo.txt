@@ -1,0 +1,6 @@
+este es un texto
+que esta en varias lineas
+y para el que vamos
+a utilizar una libreria
+
+que nos lo entrega como un seq

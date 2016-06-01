@@ -1,0 +1,11 @@
+<composiciones>
+  <composicion compositor="JS.Back">
+    <nombre>El arte de la fuga</nombre>
+  </composicion>
+  <composicion compositor="F. Chopin">
+    <nombre>Fantasie impromptu Op. 66</nombre>
+  </composicion>
+  <composicion compositor="W. A. Mozart">
+    <nombre>Requiem</nombre>
+  </composicion>  
+</composiciones>
